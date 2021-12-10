@@ -1,1 +1,1 @@
-# Upschool-bootstrap
+# Upschool bootstrap class notes
